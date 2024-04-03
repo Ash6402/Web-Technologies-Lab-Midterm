@@ -7,6 +7,6 @@ images.forEach(img => {
     })
 
     img.addEventListener('mouseleave', () => {
-        target.innerHTML = "search";
+        target.innerHTML = "Search";
     })
 })
